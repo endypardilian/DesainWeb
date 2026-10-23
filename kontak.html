@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#4a2c1a">
+  <meta name="description" content="Kirim pesan ke EnDesert dan lihat jadwal kelas baking.">
+  <title>Kontak - EnDesert</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/EnDesert-Logo.jpeg">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/main.js" type="module" defer></script>
+</head>
+<body>
+  <header class="atas">
+    <a class="merek" href="index.html">EnDesert</a>
+    <div class="aksi">
+      <button id="tema-btn" type="button" aria-pressed="false">Gelap</button>
+      <button id="menu-btn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+    </div>
+    <nav id="nav" aria-label="Menu utama">
+      <ul>
+        <li><a href="index.html">Beranda</a></li>
+        <li><a href="resep.html">Resep</a></li>
+        <li><a href="kontak.html" aria-current="page">Kontak</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Kontak dan kelas baking</h1>
+    <div class="dua-kolom">
+      <section aria-labelledby="judul-form">
+        <h2 id="judul-form">Kirim pesan</h2>
+        <form id="form-kontak" novalidate>
+          <div class="kolom">
+            <label for="nama">Nama</label>
+            <input id="nama" name="nama" type="text" autocomplete="name" aria-describedby="error-nama">
+            <p id="error-nama" class="error" role="alert"></p>
+          </div>
+          <div class="kolom">
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" autocomplete="email" aria-describedby="error-email">
+            <p id="error-email" class="error" role="alert"></p>
+          </div>
+          <div class="kolom">
+            <label for="pesan">Pesan</label>
+            <textarea id="pesan" name="pesan" rows="5" aria-describedby="error-pesan"></textarea>
+            <p id="error-pesan" class="error" role="alert"></p>
+          </div>
+          <button class="tombol" type="submit">Kirim pesan</button>
+          <p id="sukses" class="sukses" role="status"></p>
+        </form>
+      </section>
+
+      <section aria-labelledby="judul-jadwal">
+        <h2 id="judul-jadwal">Jadwal kelas</h2>
+        <div class="tabel-gulir">
+          <table>
+            <caption>Kelas baking akhir pekan</caption>
+            <thead>
+              <tr>
+                <th scope="col">Hari</th>
+                <th scope="col">Kelas</th>
+                <th scope="col">Jam</th>
+                <th scope="col">Tingkat</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td>Sabtu</td><td>Burnt Cheesecake</td><td>09.00-11.30</td><td>Mudah</td></tr>
+              <tr><td>Sabtu</td><td>Klepon</td><td>13.00-15.00</td><td>Sedang</td></tr>
+              <tr><td>Minggu</td><td>Sando Buah</td><td>10.00-11.30</td><td>Mudah</td></tr>
+              <tr><td>Minggu</td><td>Tiramisu</td><td>13.00-16.00</td><td>Sedang</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Pertanyaan lain bisa dikirim ke EnDesert.co.id.</p>
+      </section>
+    </div>
+  </main>
+  <footer class="bawah">
+    <p>EnDesert, resep dessert rumahan. Dibuat untuk Tugas 3 Desain Web.</p>
+  </footer>
+</body>
+</html>

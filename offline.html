@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sedang offline - EnDesert</title>
+  <style>
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #f5ebdb; color: #4a2c1a; font-family: "Trebuchet MS", sans-serif; text-align: center; padding: 1.5rem; }
+    h1 { font-family: Georgia, serif; font-size: 2rem; }
+    a, button { display: inline-block; margin: 0.4rem; padding: 0.6rem 1.2rem; background: #7b4b2a; color: #fffaf0; border: 0; border-radius: 4px; font: inherit; text-decoration: none; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Kamu sedang offline</h1>
+    <p>Halaman ini belum pernah dibuka sebelumnya, jadi belum tersimpan di perangkat. Sambungkan internet lalu coba lagi.</p>
+    <button id="ulang" type="button">Muat ulang</button>
+    <a href="index.html">Ke beranda</a>
+  </main>
+  <script>
+    document.querySelector("#ulang").addEventListener("click", () => location.reload());
+  </script>
+</body>
+</html>

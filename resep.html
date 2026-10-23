@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#4a2c1a">
+  <meta name="description" content="Daftar 20 resep dessert EnDesert, bisa dicari berdasarkan nama, bahan, dan kategori.">
+  <title>Semua Resep - EnDesert</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/EnDesert-Logo.jpeg">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/main.js" type="module" defer></script>
+</head>
+<body>
+  <header class="atas">
+    <a class="merek" href="index.html">EnDesert</a>
+    <div class="aksi">
+      <button id="tema-btn" type="button" aria-pressed="false">Gelap</button>
+      <button id="menu-btn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+    </div>
+    <nav id="nav" aria-label="Menu utama">
+      <ul>
+        <li><a href="index.html">Beranda</a></li>
+        <li><a href="resep.html" aria-current="page">Resep</a></li>
+        <li><a href="kontak.html">Kontak</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Semua resep</h1>
+    <form id="saring" class="saring" role="search">
+      <div>
+        <label for="cari">Cari nama atau bahan</label>
+        <input id="cari" name="cari" type="search" placeholder="contoh: cokelat">
+      </div>
+      <div>
+        <label for="kategori">Kategori</label>
+        <select id="kategori" name="kategori">
+          <option value="semua">Semua kategori</option>
+          <option value="Kue">Kue</option>
+          <option value="Dingin">Dingin</option>
+          <option value="Puding">Puding</option>
+          <option value="Kukis">Kukis</option>
+          <option value="Tradisional">Tradisional</option>
+        </select>
+      </div>
+    </form>
+    <p id="jumlah" role="status"></p>
+    <p id="status" role="status"></p>
+    <div id="daftar" class="grid"></div>
+  </main>
+  <footer class="bawah">
+    <p>EnDesert, resep dessert rumahan. Dibuat untuk Tugas 3 Desain Web.</p>
+  </footer>
+</body>
+</html>

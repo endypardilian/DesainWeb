@@ -1,0 +1,14 @@
+{
+  "name": "EnDesert - Resep Dessert Rumahan",
+  "short_name": "EnDesert",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5ebdb",
+  "theme_color": "#4a2c1a",
+  "icons": [
+    { "src": "icons/EnDesert-Logo.jpeg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "icons/EnDesert-Logo.jpeg", "sizes": "512x512", "type": "image/jpeg" },
+    { "src": "icons/EnDesert-Logo.jpeg", "sizes": "512x512", "type": "image/jpeg", "purpose": "maskable" }
+  ]
+}

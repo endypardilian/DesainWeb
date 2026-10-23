@@ -1,0 +1,101 @@
+[
+  {"id":1,"nama":"Burnt Cheesecake","kategori":"Kue","waktu":60,"level":"Mudah","unggulan":true,"ringkas":"Permukaan gosong, bagian tengah lembut dan creamy.",
+  "bahan":"500 g cream cheese, 150 g gula, 3 butir telur, 250 ml whipping cream, 2 sdm tepung terigu, 1 sdt vanila",
+  "langkah":["Panaskan oven 220°C dan alasi loyang 18 cm dengan kertas roti.","Kocok cream cheese dan gula sampai halus.","Masukkan telur satu per satu, lalu whipping cream, vanila, dan tepung.","Tuang ke loyang, panggang 35 sampai 40 menit sampai permukaan gosong dan tengahnya masih bergoyang.","Dinginkan, simpan di kulkas minimal 4 jam sebelum dipotong."],
+  "gambar":"images/resep/burn_cheese_cake.jpg"},
+
+  {"id":2,"nama":"Sando Buah","kategori":"Dingin","waktu":30,"level":"Mudah","unggulan":true,"ringkas":"Roti tawar lembut berisi krim segar dan potongan buah.",
+  "bahan":"6 lembar roti tawar tanpa pinggir, 250 ml whipping cream, 3 sdm gula halus, stroberi, kiwi, jeruk mandarin",
+  "langkah":["Kocok whipping cream dengan gula halus sampai kaku.","Oles krim tipis di satu sisi roti.","Susun buah di atas krim, tutup dengan krim lagi dan selembar roti.","Bungkus dengan plastik wrap, dinginkan 1 jam.","Potong dua dengan pisau tajam supaya isian buahnya terlihat."],
+  "gambar":"images/resep/sandao.jpg"},
+
+  {"id":3,"nama":"Choco Chip Cookies","kategori":"Kukis","waktu":35,"level":"Mudah","unggulan":true,"ringkas":"Pinggiran renyah, tengah chewy, penuh cokelat.",
+  "bahan":"200 g tepung terigu, 100 g mentega, 100 g gula palem, 1 butir telur, 150 g choco chip, 1/2 sdt baking soda",
+  "langkah":["Kocok mentega dan gula palem sampai pucat.","Masukkan telur, lalu tepung dan baking soda.","Aduk rata bersama choco chip.","Bentuk bulat di loyang, panggang 180°C selama 12 menit."],
+  "gambar":"images/resep/CCO.jpeg"},
+
+  {"id":4,"nama":"Brownies Fudgy","kategori":"Kue","waktu":45,"level":"Mudah","unggulan":false,"ringkas":"Brownies pekat dengan tekstur lengket di tengah.",
+  "bahan":"150 g dark chocolate, 100 g mentega, 120 g gula, 2 butir telur, 60 g tepung terigu, 20 g kakao",
+  "gambar":"images/resep/brownies.jpg",
+  "langkah":["Panaskan oven 170°C dan alasi loyang 20 x 20 cm dengan kertas roti.","Lelehkan dark chocolate bersama mentega di atas air panas, aduk rata lalu dinginkan sebentar.","Kocok telur dan gula sebentar saja, jangan sampai mengembang, lalu tuang cokelat leleh.","Ayak tepung dan kakao ke dalam adonan, lipat sampai tidak ada gumpalan.","Tuang ke loyang dan panggang 25 sampai 30 menit, bagian tengahnya dibiarkan sedikit lembap.","Dinginkan penuh sebelum dipotong supaya hasilnya padat dan lengket."]},
+
+  {"id":5,"nama":"Tiramisu","kategori":"Dingin","waktu":40,"level":"Sedang","unggulan":false,"ringkas":"Lapisan biskuit kopi dan krim mascarpone.",
+  "bahan":"250 g mascarpone, 200 ml whipping cream, 3 sdm gula, 200 ml kopi, biskuit ladyfinger, kakao bubuk",
+  "gambar":"images/resep/Tiramisu.jpg",
+  "langkah":["Seduh kopi dan biarkan sampai dingin.","Kocok mascarpone dengan gula sampai halus.","Kocok whipping cream sampai kaku, lalu lipat ke mascarpone.","Celup biskuit ladyfinger ke kopi sebentar saja, susun di dasar wadah.","Tuang setengah krim, ratakan, lalu ulangi satu lapis biskuit dan krim.","Dinginkan minimal 4 jam, taburi kakao bubuk sebelum disajikan."]},
+
+  {"id":6,"nama":"Panna Cotta","kategori":"Puding","waktu":25,"level":"Mudah","unggulan":false,"ringkas":"Puding krim Italia yang lumer di lidah.",
+  "bahan":"300 ml whipping cream, 200 ml susu, 60 g gula, 2 sdt gelatin bubuk, 1 sdt vanila",
+  "gambar":"images/resep/panna-cotta.jpg",
+  "langkah":["Taburkan gelatin ke 3 sendok makan susu dingin, diamkan 5 menit.","Panaskan whipping cream, sisa susu, dan gula sampai hangat, jangan sampai mendidih.","Matikan api, masukkan gelatin dan vanila, aduk sampai larut sempurna.","Tuang ke cetakan atau gelas, dinginkan minimal 4 jam sampai set.","Lepaskan dari cetakan dan sajikan bersama buah atau saus favorit."]},
+ 
+  {"id":7,"nama":"Puding Karamel","kategori":"Puding","waktu":50,"level":"Sedang","unggulan":false,"ringkas":"Puding telur dengan saus karamel pahit manis.",
+  "bahan":"4 butir telur, 400 ml susu, 80 g gula, 100 g gula untuk karamel, 1 sdt vanila",
+  "gambar":"images/resep/pudding.jpg",
+  "langkah":["Lelehkan 100 g gula di panci tanpa diaduk sampai cokelat keemasan, lalu tuang ke dasar cetakan.","Hangatkan susu bersama 80 g gula dan vanila, jangan sampai mendidih.","Kocok telur perlahan, tuang susu hangat sambil diaduk, lalu saring.","Tuang ke cetakan berisi karamel dan tutup dengan aluminium foil.","Kukus dengan api kecil 35 sampai 40 menit sampai set.","Dinginkan, lalu balik ke piring saat akan disajikan."]},
+ 
+  {"id":8,"nama":"Mille Crepes","kategori":"Kue","waktu":90,"level":"Sulit","unggulan":false,"ringkas":"Tumpukan kulit crepe tipis dengan krim di setiap lapis.",
+  "bahan":"150 g tepung terigu, 3 butir telur, 400 ml susu, 40 g mentega leleh, 300 ml whipping cream, 3 sdm gula",
+  "gambar":"images/resep/mille-crepes.jpg",
+  "langkah":["Kocok telur, susu, tepung, dan mentega leleh sampai halus, diamkan 30 menit.","Masak adonan di wajan antilengket kecil menjadi kulit tipis, sekitar 18 lembar, lalu dinginkan.","Kocok whipping cream dengan gula sampai kaku.","Susun selembar kulit, oles krim tipis, ulangi sampai semua kulit habis.","Dinginkan 2 jam supaya mudah dipotong rapi."]},
+  
+  {"id":9,"nama":"Red Velvet Cupcake","kategori":"Kue","waktu":55,"level":"Sedang","unggulan":false,"ringkas":"Cupcake merah lembut dengan frosting cream cheese.",
+  "bahan":"200 g tepung terigu, 120 g gula, 2 butir telur, 100 ml minyak, 1 sdm kakao, pewarna merah, 150 g cream cheese",
+  "gambar":"images/resep/red-velvet.jpg",
+  "langkah":["Panaskan oven 175°C dan siapkan cetakan dengan paper cup.","Kocok telur dan gula sampai pucat, masukkan minyak dan pewarna merah.","Ayak tepung dan kakao, lipat sampai rata.","Isi cetakan sampai dua pertiga penuh, panggang 20 sampai 22 menit.","Kocok cream cheese sampai lembut untuk frosting, tambahkan sedikit gula bila suka.","Setelah cupcake benar-benar dingin, oles atau semprot frosting di atasnya."]},
+ 
+  {"id":10,"nama":"Banana Bread","kategori":"Kue","waktu":60,"level":"Mudah","unggulan":false,"ringkas":"Roti pisang padat dan harum, cocok untuk sarapan.",
+  "bahan":"3 pisang matang, 150 g tepung terigu, 80 g gula, 80 g mentega, 1 butir telur, 1 sdt baking soda",
+  "gambar":"images/resep/banana-bread.jpg",
+  "langkah":["Panaskan oven 175°C dan olesi loyang roti dengan mentega.","Lumatkan pisang dengan garpu sampai hampir halus.","Campur mentega leleh, gula, dan telur ke dalam pisang.","Ayak tepung dan baking soda, lipat sampai rata.","Tuang ke loyang, panggang 45 sampai 50 menit sampai tusuk gigi keluar bersih.","Dinginkan 10 menit sebelum dikeluarkan dari loyang."]},
+ 
+  {"id":11,"nama":"Apple Pie","kategori":"Kue","waktu":80,"level":"Sedang","unggulan":false,"ringkas":"Kulit pai renyah dengan isian apel berkayu manis.",
+  "bahan":"250 g tepung terigu, 125 g mentega dingin, 4 apel, 80 g gula, 1 sdt kayu manis, 1 butir telur",
+  "gambar":"images/resep/apple-pie.jpg",
+  "langkah":["Campur tepung dan mentega dingin dengan ujung jari sampai seperti pasir, tambah 2 sampai 3 sendok makan air es, bentuk adonan, dinginkan 30 menit.","Kupas dan iris apel, masak dengan gula dan kayu manis selama 8 menit lalu dinginkan.","Giling adonan, alasi loyang pai, sisakan sebagian untuk penutup.","Isi dengan apel, tutup dengan sisa adonan, lalu olesi kocokan telur.","Panggang pada 190°C selama 35 menit sampai keemasan."]},
+ 
+  {"id":12,"nama":"Eclair Cokelat","kategori":"Kue","waktu":75,"level":"Sulit","unggulan":false,"ringkas":"Kulit choux ringan berisi krim vanila dan lapisan cokelat.",
+  "bahan":"100 g tepung terigu, 80 g mentega, 3 butir telur, 250 ml susu, 60 g gula, 100 g dark chocolate",
+  "gambar":"images/resep/eclair.jpg",
+  "langkah":["Didihkan air dan mentega, masukkan tepung sekaligus, aduk sampai adonan menyatu dan lepas dari panci.","Dinginkan sebentar, masukkan 2 butir telur satu per satu sampai adonan kental dan mengilap.","Semprot memanjang di loyang, panggang 200°C selama 10 menit lalu turunkan ke 180°C selama 20 menit.","Masak susu, gula, dan 1 butir telur sambil diaduk sampai kental untuk krim, lalu dinginkan.","Belah kulit eclair, isi dengan krim, lalu celupkan bagian atasnya ke dark chocolate leleh."]},
+  
+  {"id":13,"nama":"Churros","kategori":"Kue","waktu":30,"level":"Mudah","unggulan":false,"ringkas":"Gorengan renyah bertabur gula kayu manis.",
+  "bahan":"150 g tepung terigu, 250 ml air, 2 sdm gula, 1 sdm mentega, minyak goreng, kayu manis bubuk",
+  "gambar":"images/resep/churos.jpg",
+  "langkah":["Didihkan air bersama mentega dan 1 sendok makan gula, masukkan tepung, aduk sampai menyatu.","Dinginkan sebentar, lalu masukkan adonan ke piping bag bertip bintang.","Panaskan minyak, semprot adonan memanjang, goreng 3 sampai 4 menit sampai keemasan.","Tiriskan, lalu guling di campuran 1 sendok makan gula dan kayu manis bubuk."]},
+ 
+  {"id":14,"nama":"Mochi Es Krim","kategori":"Dingin","waktu":45,"level":"Sedang","unggulan":false,"ringkas":"Kulit mochi kenyal membungkus es krim dingin.",
+  "bahan":"100 g tepung ketan, 30 g gula, 150 ml air, tepung maizena, es krim vanila",
+  "gambar":"images/resep/mochi.jpg",
+  "langkah":["Bentuk es krim menjadi bola kecil, bekukan 1 jam sampai keras.","Campur tepung ketan, gula, dan air, tutup, lalu kukus 15 menit.","Aduk adonan selagi hangat sampai kenyal dan licin, lalu dinginkan sebentar.","Taburi meja dengan maizena, pipihkan adonan, dan potong bulat.","Bungkus setiap bola es krim, rapatkan, dan simpan di freezer sampai disajikan."]},
+ 
+  {"id":15,"nama":"Es Krim Vanila","kategori":"Dingin","waktu":30,"level":"Mudah","unggulan":false,"ringkas":"Es krim buatan rumah tanpa mesin.",
+  "bahan":"300 ml whipping cream, 200 ml susu kental manis, 1 sdt vanila, 2 butir kuning telur",
+  "gambar":"images/resep/eskrim.jpg",
+  "langkah":["Kocok whipping cream dingin sampai kaku, simpan di kulkas.","Aduk kuning telur, susu kental manis, dan vanila di atas panci berisi air panas selama 5 menit sampai agak kental, lalu dinginkan.","Lipat whipping cream ke campuran kuning telur sedikit demi sedikit.","Tuang ke wadah tertutup dan bekukan 6 jam, kocok ulang sekali setelah 2 jam supaya lebih halus.","Keluarkan 5 menit sebelum disendok."]},
+ 
+  {"id":16,"nama":"Klepon","kategori":"Tradisional","waktu":40,"level":"Sedang","unggulan":false,"ringkas":"Bola ketan hijau berisi gula merah cair.",
+  "bahan":"200 g tepung ketan, 150 ml air pandan, 100 g gula merah, 100 g kelapa parut, sedikit garam",
+  "gambar":"images/resep/klepon.jpg",
+  "langkah":["Campur tepung ketan dengan air pandan dan sedikit garam, uleni sampai adonan bisa dibentuk.","Ambil sedikit adonan, pipihkan, isi sepotong gula merah, lalu bulatkan rapat.","Rebus dalam air mendidih sampai bola-bola mengapung.","Angkat dan tiriskan.","Kukus kelapa parut dengan sedikit garam selama 10 menit, lalu guling klepon di atasnya."]},
+ 
+  {"id":17,"nama":"Kue Lapis","kategori":"Tradisional","waktu":60,"level":"Sedang","unggulan":false,"ringkas":"Lapisan warna-warni yang kenyal dan manis.",
+  "bahan":"150 g tepung beras, 50 g tepung tapioka, 400 ml santan, 100 g gula, pewarna makanan",
+  "gambar":"images/resep/Kue_Lapis.jpg",
+  "langkah":["Campur tepung beras, tapioka, gula, dan santan, aduk sampai halus lalu saring.","Bagi adonan menjadi beberapa bagian dan beri warna berbeda.","Olesi loyang dengan minyak dan kukus kosong selama 5 menit.","Tuang satu warna setipis mungkin, kukus 5 menit sampai set, lalu ulangi dengan warna bergantian.","Kukus lapisan terakhir 15 menit, dinginkan penuh sebelum dipotong."]},
+ 
+  {"id":18,"nama":"Dadar Gulung","kategori":"Tradisional","waktu":45,"level":"Mudah","unggulan":false,"ringkas":"Kulit pandan tipis berisi kelapa dan gula merah.",
+  "bahan":"125 g tepung terigu, 1 butir telur, 250 ml air pandan, 150 g kelapa parut, 100 g gula merah",
+  "gambar":"images/resep/dadar-gulung.jpg",
+  "langkah":["Kocok tepung, telur, dan air pandan sampai halus, lalu saring.","Panaskan wajan antilengket, tuang adonan tipis, masak dengan api kecil sampai matang tanpa dibalik.","Masak kelapa parut dengan gula merah dan sedikit air sampai kental dan agak kering.","Isi satu sendok makan di kulit, lipat kedua sisi, lalu gulung."]},
+ 
+  {"id":19,"nama":"Bolu Kukus","kategori":"Tradisional","waktu":40,"level":"Mudah","unggulan":false,"ringkas":"Bolu mengembang dengan retakan di atasnya.",
+  "bahan":"200 g tepung terigu, 150 g gula, 2 butir telur, 150 ml sprite, 1 sdt emulsifier, pewarna makanan",
+  "gambar":"images/resep/bolu-kukus.png",
+  "langkah":["Kocok telur, gula, dan emulsifier sampai putih, kental, dan mengembang, sekitar 8 sampai 10 menit.","Masukkan tepung bergantian dengan sprite sambil dilipat perlahan.","Beri pewarna makanan dan aduk rata.","Tuang ke cetakan cup sampai tiga perempat penuh.","Kukus dengan api besar 15 menit, lapisi tutup kukusan dengan kain dan jangan dibuka pada 10 menit pertama."]},
+  
+  {"id":20,"nama":"Nastar","kategori":"Kukis","waktu":80,"level":"Sedang","unggulan":false,"ringkas":"Kukis mentega berisi selai nanas yang legit.",
+  "bahan":"250 g tepung terigu, 150 g mentega, 2 kuning telur, 2 sdm gula halus, 200 g selai nanas",
+  "gambar":"images/resep/nastar.jpg",
+  "langkah":["Kocok mentega dan gula halus sampai pucat, masukkan 1 kuning telur.","Masukkan tepung, uleni sampai adonan bisa dibentuk.","Bulatkan selai nanas menjadi bola kecil.","Pipihkan adonan, bungkus selai, lalu bulatkan.","Susun di loyang dan olesi dengan kuning telur yang tersisa.","Panggang pada 150°C selama 30 menit sampai kecokelatan."]}
+]
